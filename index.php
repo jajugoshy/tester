@@ -1,4 +1,3 @@
 <?php
-echo 'remove';
-echo 'remove 2---';
+echo 'test';
 ?>
